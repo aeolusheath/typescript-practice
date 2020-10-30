@@ -1,0 +1,1 @@
+const secondP: string = 'Beyonce'
